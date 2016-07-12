@@ -26,8 +26,8 @@ dependencies {
     compile files('libs/zxing.jar')
 }
 
-def siteUrl = 'https://github.com/zhengxiaopeng/BounceProgressBar'      // 项目的主页
-def gitUrl = 'https://github.com/zhengxiaopeng/BounceProgressBar.git'   // Git仓库的url
+def siteUrl = 'https://github.com/StiflerJj/dkdh-library1'      // 项目的主页
+def gitUrl = 'https://github.com/StiflerJj/dkdh-library1.git'   // Git仓库的url
 group = "org.rocko.bpb"                                        // Maven Group ID for the artifact，一般填你唯一的包名
 install {
     repositories.mavenInstaller {
